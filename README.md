@@ -1,2 +1,2 @@
 # bruna
-Trabalho pensamento computacional
+Trabalho computacional pensamento
